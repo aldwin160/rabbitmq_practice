@@ -69,7 +69,7 @@ async function main() {
       console.log("Unknown command");
     }
   }
-}
+} 
 
 main().catch((err) => {
   console.error("Fatal error:", err);
